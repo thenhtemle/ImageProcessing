@@ -11,3 +11,4 @@ Cụ thể, nếu đề yêu cầu sinh viên cài đặt chức năng nào đó
 - Được phép sử dụng thư viện `NumPy` tùy ý
 
 <ins>Lưu ý:</ins> Để được **điểm tối đa** cho từng chức năng, thời gian thực thi của mỗi chức năng phải nằm trong khoảng thời gian chấp nhận được. Ví dụ với chức năng làm mờ (phức tạp nhất) có thời gian thực thi trên ảnh với kích thước $512 \times 512$ là dưới 15 giây.
+# Nếu bạn sử dụng code của repo này, vui lòng ghi nguồn đầy đủ và rõ ràng.
